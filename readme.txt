@@ -7,3 +7,4 @@ xiaoming
 xiaohong
 男
 xiaoming加入一行
+xiaoming又加入了一行
