@@ -6,3 +6,4 @@ bug修复成功
 xiaoming
 xiaohong
 男
+xiaoming加入一行
